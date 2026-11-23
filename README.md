@@ -13,6 +13,8 @@
 
 ## About
 
+<img align="right" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="180" alt="data visualization preview" />
+
 I am a third-year undergraduate student focusing on **data analytics, backend engineering, and applied machine learning**. My work centers on turning raw datasets into reliable metrics, building clean APIs, and shipping practical applications.
 
 - **Data & Statistical Analysis:** Data wrangling, deduplication, IQR outlier detection, rolling-window percentile thresholding, and bibliometric analysis in Python.
