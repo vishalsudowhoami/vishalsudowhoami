@@ -1,82 +1,85 @@
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=VISHAL%20RAMESH&fontSize=62&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%20Engineering%20%7C%20Backend%20%26%20Mobile%20Systems&descAlignY=62&descSize=19" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:0f3460&height=190&section=header&text=VISHAL%20RAMESH&fontSize=54&fontColor=38BDF8&fontAlignY=42&desc=Data%20Analytics%20%7C%20Backend%20%26%20Applied%20AI%20Engineering&descAlignY=68&descSize=17" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Badges -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&height=60&lines=Hi,+I'm+Vishal+Ramesh+👋;3rd-Year+CS+%26+AI+Engineering+Student+🎓;Statistical+Anomaly+Detection+%26+Data+Analytics+📊;Building+with+Python,+FastAPI,+Flutter+%26+SQL+🚀" alt="Hi, I'm Vishal" />
-</div>
-
-<!-- Status & Metric Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsudowhoami&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20AI-00f7ff?style=for-the-badge&logo=python&logoColor=black" alt="focus" />
-  <img src="https://img.shields.io/badge/Daily%20Driver-Garuda%20Linux%20%7C%20Hyprland-ffbe0b?style=for-the-badge&logo=linux&logoColor=black" alt="os" />
-  <img src="https://img.shields.io/badge/Open%20To-Data%20%26%20SWE%20Internships-00e676?style=for-the-badge&logo=github&logoColor=black" alt="internships" />
-</div>
-
-<br/>
-
-<!-- Animated Visual Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="245" alt="coding gif" />
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="245" alt="data analytics gif" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="245" alt="terminal code gif" />
+  <img src="https://komarev.com/ghpvc/?username=vishalsudowhoami&label=Profile%20Views&color=0284c7&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Backend-0ea5e9?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20FastAPI%20%7C%20Flutter-1e293b?style=flat-square" alt="stack" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%28Data%20%2F%20SWE%29-059669?style=flat-square" alt="internships" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-<div align="right">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="145" alt="developer gif" />
-</div>
+I am a third-year undergraduate student focusing on **data analytics, backend engineering, and applied machine learning**. My work centers on turning raw datasets into reliable metrics, building clean APIs, and shipping practical applications.
 
-- 🎓 **3rd-Year Undergraduate Student** focusing on **Data Analytics, Machine Learning, and Full-Stack AI Systems**
-- 📊 **Data & Statistical Analysis:** Experienced with data cleaning, IQR outlier detection, rolling-window dynamic percentile thresholding, and bibliometric dataset analysis in Python
-- ⚡ **Backend & App Engineering:** Building production-ready APIs with **FastAPI**, browser extensions, and cross-platform mobile apps with **Flutter & Dart**
-- 🧠 **Applied AI & NLP:** Hands-on work with LLM pipelines, Pydantic structured validation, and multilingual Indian-language emotion/stress triage models
-- 🧩 **Problem Solving:** Daily algorithmic practice in **Java** and **Python** on **LeetCode** and **CodeChef**
-- 🐧 **Environment:** Customizing and developing on **Garuda Linux (Arch)** with **Hyprland**, Fish shell, Docker, and Git
-- 📫 **Reach me at:** [vishalramesh004@gmail.com](mailto:vishalramesh004@gmail.com)
+- **Data & Statistical Analysis:** Data wrangling, deduplication, IQR outlier detection, rolling-window percentile thresholding, and bibliometric analysis in Python.
+- **Backend & Application Development:** REST APIs with **FastAPI**, structured schema validation with **Pydantic**, and cross-platform mobile apps with **Flutter & Dart**.
+- **Applied AI & NLP:** LLM-backed pipelines, multilingual Indic NLP workflows, and human-in-the-loop triage systems.
+- **Core Foundations:** Object-oriented programming in **Java**, data structures and algorithms (**LeetCode** / **CodeChef**), relational/document databases (**MySQL**, **PostgreSQL**, **MongoDB**, **SQLite**), and Linux/Docker workflows.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Technical Stack
 
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,bash&theme=dark" alt="languages" />
-</p>
-
-**Data Science, Analytics & Visualization**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,scikitlearn,mysql,powerbi&theme=dark" alt="data science" />
-</p>
-
-**Backend, Mobile & Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flutter,mongodb,postgres,sqlite&theme=dark" alt="backend and mobile" />
-</p>
-
-**DevOps, Linux & Developer Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode&theme=dark" alt="tools" />
-</p>
+| Category | Tools & Technologies |
+|:--|:--|
+| **Languages** | Python, Java, Dart, SQL, Bash |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib, Scikit-learn, MySQL, PostgreSQL, Power BI |
+| **Backend & Mobile** | FastAPI, Pydantic, Flutter, MongoDB, SQLite |
+| **Developer & OS Tools** | Git, GitHub, Docker, VS Code, Google Colab, Linux (Arch / Garuda / Hyprland) |
 
 ---
 
-## 🚀 Featured & Active Projects
+## Selected Projects
+
+### 1. OpenAlex Bibliometric Anomaly Engine
+Statistical anomaly detection workflow over a **13,000+ author** dataset (`author_id`, `works_count`, `coauthor_count`, citation metrics). Implements IQR bounds, rolling-window 99th-percentile publication thresholds across coauthor ranges, and citation momentum indicators.
+- **Stack:** `Python` · `Pandas` · `NumPy` · `Google Colab`
+
+### 2. PlacementGuard
+Multi-layered scam-detection backend and Manifest V3 Chrome Extension designed to identify fraudulent internship and job postings and surface college-wide alerts.
+- **Stack:** `Python` · `FastAPI` · `Pydantic` · `MongoDB` · `LLM APIs`
+
+### 3. Multilingual Emotion & Stress Triage System
+Multimodal AI and human-in-the-loop triage architecture supporting Indian languages (**Tamil, Telugu, Kannada, Hindi, Tanglish**) with structured risk scoring, explanations, and review workflows.
+- **Stack:** `Flutter` · `FastAPI` · `PostgreSQL` · `IndicBERT` · `Gemma`
+
+### 4. LifeTrack AI
+Cross-platform personal tracking application covering daily tasks, weight, activity metrics, and on-device summaries with local persistence and interactive charts.
+- **Stack:** `Flutter` · `Dart` · `SQLite` · `Riverpod` · `fl_chart`
+
+### 5. AI Skill-Verification Pipeline
+Candidate validation pipeline that cross-checks profile skills against job descriptions and generates difficulty-tiered technical multiple-choice assessments.
+- **Stack:** `Python` · `Pydantic` · `MongoDB` · `Gemini`
+
+---
+
+## Current Focus
+
+- Refining exploratory data analysis, SQL query/window-function fluency, and Power BI reporting workflows.
+- Building reproducible analytics notebooks and documented end-to-end repositories.
+- Preparing for **Data Analyst** and **Software Engineering** internship roles.
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260" alt="building projects gif" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalsudowhoami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsudowhoami&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| 📊 **OpenAlex Bibliometric Anomaly Engine** | Statistical anomaly detection pipeline analyzing 13,000+ author records using IQR bounds, rolling-window 99th-percentile thresholds, and citation momentum metrics | `Python` `Pandas` `NumPy` `Google Colab` |
-| 🛡️ **PlacementGuard** | Multi-layered scam-detection engine and Manifest V3 Chrome Extension that flags fraudulent internship/job offers and broadcasts college-wide alerts | `Python` `FastAPI` `MongoDB` `Pydantic` `Gemini` |
-| 🗣️ **Indic Emotion & Stress Triage System** | Multimodal AI + Human-in-the-Loop triage platform supporting Tamil, Telugu, Kannada, Hindi, and Tanglish speech/
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vishalsudowhoami&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Contact
+
+- **Email:** [vishalramesh004@gmail.com](mailto:vishalramesh004@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vishal-ramesh-4b4b4132b](https://www.linkedin.com/in/vishal-ramesh-4b4b4132b)
+- **GitHub:** [github.com/vishalsudowhoami](https://github.com/vishalsudowhoami)
